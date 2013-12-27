@@ -21,8 +21,6 @@ public class SubGrapher {
 		//FullGraphList theFullGraph = new FullGraphList();
 		//theFullGraph.readFile();
 		
-		//..
-		
 		myBigGraphFilePath = System.getProperty("user.dir") + "\\" + "Web-Google.txt";
 	}
 
